@@ -70,6 +70,14 @@ body {
     border-bottom: 4px solid var(--verde);
 }
 
+.aba-textos{
+    background-color: var(--texto-fundo);
+    padding: 40px
+    border-radius: 0 0 40px 40px;
+    
+
+}
+
 
 @keyframes pisca{
   0%{color: aqua;}
